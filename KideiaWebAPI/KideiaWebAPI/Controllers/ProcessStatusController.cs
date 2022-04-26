@@ -16,15 +16,17 @@ namespace KideiaWebAPI.Controllers
             "Confirmando e-mail", "Pendente de assinatura", "Contrato Assinado", "Verificando Documentos", "Plano Selecionado"
         };
 
-        [HttpGet]
-        public IEnumerable<ProcessStatus> Get()
+        [HttpGet("{IdUser:int}")]
+        public IEnumerable<ProcessStatus> Get([FromRoute] int IdUser)
         {
             var rng = new Random();
             int count = 0;
             return Enumerable.Range(0, 4).Select(index => new ProcessStatus
             {
+                Id = IdUser,
                 Date = DateTime.Now.AddDays(index),
-                Summary = Summaries[count++]
+                Summary = Summaries[count++],
+                Name = "Daniel"
             })
             .ToArray();
         }

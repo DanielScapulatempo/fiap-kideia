@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kT5IT9uYRxglPr1SK+kdPHs7MYj8cBnjhT0kfKAiEH2VJbTnK7TQld3b3m+VC6ipcIWm0zR6kd79v63ostxJxg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\kideia\\KideiaWebAPI\\KideiaWebAPI\\KideiaWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\daniel.scapulatempo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

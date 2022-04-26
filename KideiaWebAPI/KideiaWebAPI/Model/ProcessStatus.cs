@@ -1,6 +1,6 @@
 using System;
 
-namespace KideiaWebAPI.Models
+namespace KideiaWebAPI.Model
 {
     public class ProcessStatus
     {

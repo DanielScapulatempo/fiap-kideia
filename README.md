@@ -17,3 +17,7 @@ _________________
 
 ### ProcessStatus
 - Verifica o status do processo, passando como parâmetro o id do usuário<br> ```http://localhost:2159/ProcessStatus/1```
+
+### User
+- Lista todos os usuários<br> ```http://localhost:2159/User```
+- Lista os dados de um usuário, passando como parâmetro o id<br> ```http://localhost:2159/User/1```

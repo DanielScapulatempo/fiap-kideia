@@ -1,6 +1,8 @@
 # fiap-kideia
 
 ## Observação
+- Projeto dentro da pasta KideiaWebAPI<br>
+- Desenvolvido em C# .Net Core 5<br>
 - Consideramos, para efeito de testes, o host localhost:2159.<br>
 - Ao efetuar o clone do repositório, substitua pelo seu host na URL.
 
